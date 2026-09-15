@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.pytest_cache/
+.streamlit/
+.DS_Store
+processed_energy_data_full.csv
